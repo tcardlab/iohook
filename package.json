@@ -34,6 +34,7 @@
   },
   "homepage": "https://github.com/wilix-team/iohook#readme",
   "dependencies": {
+    "cmake-js": "^6.1.0",
     "nugget": "^2.0.1",
     "pump": "^1.0.3",
     "rc": "^1.2.8",
