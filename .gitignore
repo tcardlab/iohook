@@ -12,7 +12,7 @@ examples/electron-example/.DS_Store
 logs
 node_modules
 npm-debug.log*
-prebuilds
+#prebuilds
 stacktrace*
 uiohook.gyp
 
