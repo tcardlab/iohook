@@ -137,8 +137,8 @@ if (options.targets.length > 0) {
   const abi = process.versions.modules;
   const platform = process.platform;
   const arch = process.arch;
-  if (platform !== 'darwin') {
+  //if (platform !== 'darwin') {
     install(runtime, abi, platform, arch, function() {
     })
-  }
+  //}
 }
